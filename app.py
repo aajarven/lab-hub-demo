@@ -1,1 +1,2 @@
-print("this feature is awesome")
+while True:
+    print("this feature is awesome")
