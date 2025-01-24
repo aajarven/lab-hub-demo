@@ -1,5 +1,7 @@
 # lab-hub demo
 
+NB: this description assumes that you have git alias `graph` that does `log --all --graph --decorate --oneline`.
+
 ## Creating the repo and initial commits to each remote (GitHub and GitLab)
 
 I created a new repo into gitlab (could have been github equally easily, a git repo is a git repo) and cloned it:
