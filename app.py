@@ -1,2 +1,2 @@
 while True:
-    print("this feature is awesome")
+    print("this feature is awesomer")
