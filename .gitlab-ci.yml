@@ -9,6 +9,7 @@ deploy_to_github:
     script:
         - git remote add github https://oauth2:${GITHUB_TOKEN}@github.com/aajarven/lab-hub-demo.git || echo "remote already exists"
         - git checkout main
+        - git merge --ff-only origin/main
         - git status
         - git log --oneline --all --decorate
         - git remote -v
