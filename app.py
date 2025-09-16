@@ -1,2 +1,2 @@
 while True:
-    print("Moi! Nämä commitit rakentuvat toistensa päälle")
+    print("Moi! aloitetaan tyhjästä")
