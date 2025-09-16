@@ -5,3 +5,4 @@ while True:
     print("joka rakentuu edellisen päälle")
     print("Uutta tavaraa labiin")
     print("vielä toisen pullarin verran")
+    print("kerta kiellon päälle")
