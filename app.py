@@ -4,3 +4,4 @@ while True:
     print("Aivan uusi feature")
     print("joka rakentuu edellisen päälle")
     print("Uutta tavaraa labiin")
+    print("vielä toisen pullarin verran")
